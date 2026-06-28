@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://www.native-instruments.com/ni-tech-manuals/traktor-pro-manual/en/image/uuid-08cd423b-c601-ec4d-ede9-d0818f953a47.jpg" alt="Traktor Pro — macOS DJ mixing and performance screenshot" width="780"/>
+  <img src="https://musictech.com/wp-content/uploads/2019/05/native-instruments-traktor-pro-3-1-remixer-mixer@1400x881.jpg" alt="Traktor Pro — macOS DJ mixing and performance screenshot" width="780"/>
 </p>
 
 ---
